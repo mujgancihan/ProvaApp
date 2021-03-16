@@ -1,6 +1,7 @@
 # Starter pipeline
 
 
+
 trigger:
 - main
 
@@ -13,6 +14,12 @@ steps:
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
+
+- task: VSBuild@1
+  inputs:
+    solution: '**\*.sln'
+    msbuildArgs: '/p:RunCodeAnalysis=true'
+
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
