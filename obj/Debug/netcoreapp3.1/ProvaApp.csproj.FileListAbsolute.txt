@@ -1,0 +1,11 @@
+C:\ProvaApp\bin\Debug\netcoreapp3.1\ProvaApp.exe
+C:\ProvaApp\bin\Debug\netcoreapp3.1\ProvaApp.deps.json
+C:\ProvaApp\bin\Debug\netcoreapp3.1\ProvaApp.runtimeconfig.json
+C:\ProvaApp\bin\Debug\netcoreapp3.1\ProvaApp.runtimeconfig.dev.json
+C:\ProvaApp\bin\Debug\netcoreapp3.1\ProvaApp.dll
+C:\ProvaApp\bin\Debug\netcoreapp3.1\ProvaApp.pdb
+C:\ProvaApp\obj\Debug\netcoreapp3.1\ProvaApp.csprojAssemblyReference.cache
+C:\ProvaApp\obj\Debug\netcoreapp3.1\ProvaApp.AssemblyInfoInputs.cache
+C:\ProvaApp\obj\Debug\netcoreapp3.1\ProvaApp.AssemblyInfo.cs
+C:\ProvaApp\obj\Debug\netcoreapp3.1\ProvaApp.dll
+C:\ProvaApp\obj\Debug\netcoreapp3.1\ProvaApp.pdb
